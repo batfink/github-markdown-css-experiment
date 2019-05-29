@@ -1,3 +1,7 @@
+<style>
+  .markdown-body { background: black; color: white }
+</style>
+
 # Heading
 
 Some text
