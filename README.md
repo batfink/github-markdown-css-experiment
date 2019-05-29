@@ -2,7 +2,7 @@
   .markdown-body { background: black; color: white }
 </style>
 
-<em style="color: orange">italic</em>
+<em style="color: orange" class="foo">italic</em>
 
 # Heading
 
