@@ -2,7 +2,9 @@
   .markdown-body { background: black; color: white }
 </style>
 
-<time-ago datetime="2018-01-08T07:16:12Z" title="8 Jan 2018, 08:16 CET"></time-ago>
+<time-ago format="micro" datetime="1970-01-01T00:00:00.000Z">
+  Oops! This browser doesn't support Web Components.
+</time-ago>
 
 <em style="color: orange" class="foo">italic</em>
 
